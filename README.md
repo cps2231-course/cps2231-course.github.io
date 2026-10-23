@@ -1,5 +1,7 @@
 # CPS 2231 · Computer Programming
 
+[Course website](https://cps2231-course.github.io/) · [Course materials on GitHub](https://github.com/cps2231-course/CPS2231-Teaching-Assistant-Materials)
+
 Unofficial course companion for CPS 2231, Spring 2025, Sections 02 & 09, maintained by Songlin Shang. The site does not present itself as an official university website.
 
 ## Preview and edit
