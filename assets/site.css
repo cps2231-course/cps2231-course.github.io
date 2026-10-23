@@ -69,6 +69,7 @@ main { margin-left: var(--sidebar); padding-top: var(--topbar); padding-bottom: 
 .term-line { font-size: 16px; color: var(--muted); font-weight: 700; margin-bottom: 14px; }
 .meeting-summary { color: var(--muted); font-size: 14px; margin: 0; line-height: 1.8; }
 .meeting-summary span { display: inline-block; margin-right: 22px; }
+.course-materials { margin: 12px 0 0; font-size: 14px; }
 .course-layout { padding-top: 9px; }
 .course-content { max-width: 990px; }
 .course-section + .course-section { margin-top: 37px; }
